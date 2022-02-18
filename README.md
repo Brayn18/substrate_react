@@ -1,4 +1,4 @@
-# Substrate Front End Template is beaing used for web3 interactions
+# Substrate Front End Template is being used for web3 interactions
 
 This template allows you to create a front-end application that connects to a
 [Substrate](https://github.com/paritytech/substrate) node back-end with minimal
